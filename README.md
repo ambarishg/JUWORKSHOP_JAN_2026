@@ -1,10 +1,8 @@
 # JUWORKSHOP_JAN_2026
 
-<p align="center">RAG , Advanced RAG , Advanced RAG with Qdraant , Agents from the January 2026 workshop.</p>
+<p align="center">RAG , Advanced RAG , Advanced RAG with Qdrant , Agents from the January 2026 workshop.</p>
 
 > RAG portion inspired by Pamela Fox's [`learnlive-rag-starter`](https://github.com/pamelafox/learnlive-rag-starter) workshop repo.
-
-
 
 > - `agent-framework-core` material is sourced directly from the [`ambarishg/agent-framework`](https://github.com/ambarishg/agent-framework).
 
