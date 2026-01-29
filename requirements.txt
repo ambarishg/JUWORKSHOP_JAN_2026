@@ -1,0 +1,12 @@
+azure-identity
+openai>=1.108.1
+python-dotenv
+langchain-text-splitters
+rich
+lunr
+agent-framework-core
+azure-ai-projects
+pymupdf4llm
+sentence-transformers
+tiktoken
+qdrant-client

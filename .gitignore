@@ -1,0 +1,57 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+build/
+dist/
+.eggs/
+*.egg
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+python_env/
+venv.bak/
+
+# Packaging and installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb.??
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Data dumps, logs, and artifacts
+*.log
+*.sqlite3
+*.db
+*.bak
+*.tmp
+rag_ingested_chunks.json
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Misc
+*.swp
+*.swo
