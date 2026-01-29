@@ -1,5 +1,7 @@
 # JUWORKSHOP_JAN_2026
 
+> RAG portion inspired by Pamela Fox's [`learnlive-rag-starter`](https://github.com/pamelafox/learnlive-rag-starter) workshop repo.
+
 <p align="center">RAG experiments and Qdrant ingestion workbench from the January 2026 workshop.</p>
 
 ## Overview
