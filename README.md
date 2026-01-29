@@ -8,6 +8,7 @@
 - `RAG/` contains lightweight retrieval pipelines that demonstrate how to query the pre-ingested insect corpus (`rag_ingested_chunks.json`) with Lunr and Azure OpenAI.
 - `QDRANT/` holds tooling to split a PDF, generate embeddings with Azure OpenAI, and push them into a Qdrant collection.
 - Python dependencies are managed via `requirements.txt`; the project expects Azure OpenAI credentials and (for Qdrant flows) a hosted Qdrant instance.
+- `agent-framework-core` dependency is sourced directly from the [`ambarishg/agent-framework` main branch](https://github.com/ambarishg/agent-framework).
 
 ## Prerequisites
 1. Install Python 3.12+ and a terminal that can run PowerShell or Bash on Windows.
