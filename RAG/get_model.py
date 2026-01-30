@@ -1,6 +1,10 @@
 from azure.ai.projects import AIProjectClient
 from azure.identity import DefaultAzureCredential
-from .config import *
+
+try:
+    from .config import *
+except ImportError:  # script run outside package context
+    from config import *
 
 project = AIProjectClient(
     endpoint=AZURE_OPENAI_ENDPOINT,

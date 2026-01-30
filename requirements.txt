@@ -10,3 +10,6 @@ pymupdf4llm
 sentence-transformers
 tiktoken
 qdrant-client
+pandas
+matplotlib
+hnswlib

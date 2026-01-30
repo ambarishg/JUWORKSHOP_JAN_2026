@@ -32,8 +32,6 @@ def search(query):
     matches_table += "\n".join(" | ".join(row) for row in matching_rows)
     return matches_table
 
-from get_model import *
-
 while True:
     question = input("\nYour question about electric cars: ")
 
